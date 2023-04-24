@@ -6,4 +6,4 @@
 ## [🔗下载链接](https://github.com/MJDILI/MJJHD_Mono/raw/main/MJJHDMono-Regular.ttf)
 
 ## 💻字体预览
-![哈哈哈](https://github.com/MJDILI/MJJHD_Mono/blob/main/MJJHD_Mono_%E9%A2%84%E8%A7%88.png?raw=true)
+![字体预览](https://github.com/MJDILI/MJJHD_Mono/blob/main/MJJHD_Mono_%E9%A2%84%E8%A7%88.png?raw=true)
